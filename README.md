@@ -19,6 +19,36 @@ c. Global Recovered Cases from COVID-19
 4) Other data subsets as well were scrappd from Github, and the same processes of the steps above were repeated on the Power Quwery Editor
 5) Lastly, three different sheets were got and the "Merge" feature on Power Query editor was used to mrege the sheets, renaming the resulting sheet as "Consolidated",while loading and closing the Query editor.
 
+Transformation data:
+Analysis begun by ensurig that each column of the consolidated sheet is well formatted.
+Afterward, relevant and needed columns were selected to create Pivot Tables of different variants, signifying the relationship of bpth top and bottom 5 countries with the highest confirmed,recovered and death cases of COVID-19.
+
+Charts of diveres types were then used using the "Analyze Pivot Table" feauture, to make up a new spreadsheet named "Dashboard".
+
+---
+
+# Findings and Recommendations : "To every cause,there is an effect..." This section touches the 'effects' of our findings and reccomenations.
+
+ By sight, there is the recorded cumulative confirmed cases of  **_149,720,008,519_**
+ 
+ Likewise, a total number of  **_2,633,869,299_**  was recorded as death cases.
+ While the overall rate of death spans about **1.76%**
+
+ Now,let's consider our first pair of visuals. it is glaring that of all the countries with the highest number of COVID-19 cases ,the **United States** 
+ suffers the highest casualties, recording the most of the confirmed cases of the virus.
+ 
+ While of the bottom 5 of nations with least cases, **North Korea** has the lowest record of COVID-19 cases, with precisely 32 cases. 
+
+
+---
+![Highest confirmed](https://user-images.githubusercontent.com/107119554/174417228-3aba5534-3398-466d-960d-d06c415717b5.PNG)
+
+![Bottom 5 of confirmed cases](https://user-images.githubusercontent.com/107119554/174417600-8c069ee7-bfc1-4f2d-9099-a4150cfef1f0.PNG)
+
+In the third visual, it is seen that the cases of COVID-19 skyrocketed from 2020 into 2021 ranging from about 7 billion - 67 billion cumulative cases of the pandemic. While entering into 2022, there is a reduced increase in the number of cases.
+
+
+
 
 
 
