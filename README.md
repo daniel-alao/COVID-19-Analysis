@@ -57,6 +57,9 @@ Charts of diverse types were then used using the "Analyze Pivot Table" feature, 
 ![Cumulative by Year](https://user-images.githubusercontent.com/107119554/174418213-ada61e53-bad4-41e8-bb4d-4a0a39bc80fc.PNG)
 
 
+# Findings and Recommendations: 
+
+
 
 
 
