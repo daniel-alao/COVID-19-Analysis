@@ -19,7 +19,7 @@ c. Global Recovered Cases from COVID-19
 4) Other data subsets as well were scrappd from Github, and the same processes of the steps above were repeated on the Power Quwery Editor
 5) Lastly, three different sheets were got and the "Merge" feature on Power Query editor was used to mrege the sheets, renaming the resulting sheet as "Consolidated",while loading and closing the Query editor.
 
-Transformation data:
+**Transformation data:**
 Analysis begun by ensurig that each column of the consolidated sheet is well formatted.
 Afterward, relevant and needed columns were selected to create Pivot Tables of different variants, signifying the relationship of bpth top and bottom 5 countries with the highest confirmed,recovered and death cases of COVID-19.
 
@@ -34,6 +34,9 @@ Charts of diveres types were then used using the "Analyze Pivot Table" feauture,
  Likewise, a total number of  **_2,633,869,299_**  was recorded as death cases.
  While the overall rate of death spans about **1.76%**
 
+ ![THE DASHBOARD HEAd](https://user-images.githubusercontent.com/107119554/174418235-f5f19442-45a6-4ed9-937a-e04a94206466.PNG)
+
+ 
  Now,let's consider our first pair of visuals. it is glaring that of all the countries with the highest number of COVID-19 cases ,the **United States** 
  suffers the highest casualties, recording the most of the confirmed cases of the virus.
  
@@ -45,7 +48,11 @@ Charts of diveres types were then used using the "Analyze Pivot Table" feauture,
 
 ![Bottom 5 of confirmed cases](https://user-images.githubusercontent.com/107119554/174417600-8c069ee7-bfc1-4f2d-9099-a4150cfef1f0.PNG)
 
-In the third visual, it is seen that the cases of COVID-19 skyrocketed from 2020 into 2021 ranging from about 7 billion - 67 billion cumulative cases of the pandemic. While entering into 2022, there is a reduced increase in the number of cases.
+**In the third visual, it is seen that the cases of COVID-19 skyrocketed from 2020 into 2021 ranging from about 7 billion - 67 billion cumulative cases of the pandemic. While entering into 2022, there is a reduced increase in the number of cases.**
+
+
+![Cumulative by Year](https://user-images.githubusercontent.com/107119554/174418213-ada61e53-bad4-41e8-bb4d-4a0a39bc80fc.PNG)
+
 
 
 
