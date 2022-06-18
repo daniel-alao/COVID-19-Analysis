@@ -1,12 +1,13 @@
 # Project Name : Analysis of Global COVID-19 Prevalence From The Year 2020 Till Date.
 
 ---
-# Project Objective: To understand the global effect of COVID-19 Pandmemic so as to Fix public Health Emergency Relapses.
+# Project Objective: To Understand the Global Effect of COVID-19 Pandmemic in Order to Fix Public Health Emergency Relapses.
 
 ---
 # Data Sourcing : Our primary dataset to run this analyses was got from COVID-19 GitHub Data : https://aka.ms/30DLCOVID19GitHubData.
 The Dataset contain subsets of time series form.
 The extracted data subsets for analysis were;
+
 a. Global Confirmed Cases of COVID-19
 b. Global Deaths from COVID-19
 c. Global Recovered Cases from COVID-19
@@ -20,10 +21,10 @@ c. Global Recovered Cases from COVID-19
 5) Lastly, three different sheets were got and the "Merge" feature on Power Query editor was used to mrege the sheets, renaming the resulting sheet as "Consolidated",while loading and closing the Query editor.
 
 **Transformation data:**
-Analysis begun by ensurig that each column of the consolidated sheet is well formatted.
-Afterward, relevant and needed columns were selected to create Pivot Tables of different variants, signifying the relationship of bpth top and bottom 5 countries with the highest confirmed,recovered and death cases of COVID-19.
+Analysis begun by ensuring that each column of the consolidated sheet is well formatted.
+Afterward, relevant and needed columns were selected to create Pivot Tables of different variants, signifying the relationship of both top and bottom 5 countries with the highest confirmed,recovered and death cases of COVID-19.
 
-Charts of diveres types were then used using the "Analyze Pivot Table" feauture, to make up a new spreadsheet named "Dashboard".
+Charts of diverse types were then used using the "Analyze Pivot Table" feature, to make up a new spreadsheet named "Dashboard".
 
 ---
 
@@ -37,7 +38,7 @@ Charts of diveres types were then used using the "Analyze Pivot Table" feauture,
  ![THE DASHBOARD HEAd](https://user-images.githubusercontent.com/107119554/174418235-f5f19442-45a6-4ed9-937a-e04a94206466.PNG)
 
  
- Now,let's consider our first pair of visuals. it is glaring that of all the countries with the highest number of COVID-19 cases ,the **United States** 
+ Now,let's consider our first pair of visuals. It is glaring that of all the countries with the highest number of COVID-19 cases ,the **United States** 
  suffers the highest casualties, recording the most of the confirmed cases of the virus.
  
  While of the bottom 5 of nations with least cases, **North Korea** has the lowest record of COVID-19 cases, with precisely 32 cases. 
