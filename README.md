@@ -9,7 +9,9 @@ The Dataset contain subsets of time series form.
 The extracted data subsets for analysis were;
 
 a. Global Confirmed Cases of COVID-19
+
 b. Global Deaths from COVID-19
+
 c. Global Recovered Cases from COVID-19
                   
 # Data Transformation: In order to make meaningful use of the avaialable datasets, I ensured that the format of the each subset of data was retained in the extension 'xlsx'.
