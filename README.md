@@ -71,6 +71,11 @@ Charts of diverse types were then used using the "Analyze Pivot Table" feature, 
 
 # Recommendations: 
 
+From Analysis and findings, the United States is the most plagued state, which is most likely due to the increase in the rate of migration as at the surge of the pandemic. 
+
+Migration as well should be contained to effect reduction in number of cases. 
+
+b.) Each country should ensure that shots of vaccines are taken to prevent an escalation of COVID-19 cases. 
 
 
 
