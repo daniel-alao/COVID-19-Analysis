@@ -1,4 +1,6 @@
-# Project Name : Analysis of Global COVID-19 Prevalence From The Year 2020 Till Date.
+# Project Name : 
+
+**Analysis of Global COVID-19 Prevalence From The Year 2020 Till Date.**
 
 ---
 # Project Objective: 
