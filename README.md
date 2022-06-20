@@ -1,7 +1,9 @@
 # Project Name : Analysis of Global COVID-19 Prevalence From The Year 2020 Till Date.
 
 ---
-# Project Objective: With the sudden and seemingly outburst of COVID-19, barely is any nation or continent left unplagued. In this project, we want to understand the impact of COVID-19 on various nations and as well their various degrees of being affected. 
+# Project Objective: 
+
+**With the sudden and seemingly outburst of COVID-19, barely is any nation or continent left unplagued. In this project, we want to understand the impact of COVID-19 on various nations and as well their various degrees of being affected.**
 
 **We also want to  understand the global Effect of COVID-19 Pandmemic in order to fix Public Health Emergency Relapses.**
 
