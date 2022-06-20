@@ -10,8 +10,10 @@
 **We also want to  understand the global Effect of COVID-19 Pandmemic in order to fix Public Health Emergency Relapses.**
 
 ---
-# Data Sourcing : Our primary dataset to run this analyses was got from COVID-19 GitHub Data : https://aka.ms/30DLCOVID19GitHubData.
-The Dataset contain subsets of time series form.
+# Data Sourcing : 
+
+**Our primary dataset to run this analyses was got from COVID-19 GitHub Data : https://aka.ms/30DLCOVID19GitHubData.
+The Dataset contain subsets of time series form.**
 The extracted data subsets for analysis were;
 
 a. Global Confirmed Cases of COVID-19
@@ -20,9 +22,11 @@ b. Global Deaths from COVID-19
 
 c. Global Recovered Cases from COVID-19
                   
-# Data Transformation: In order to make meaningful use of the avaialable datasets, I ensured that the format of the each subset of data was retained in the extension 'xlsx'.
-1) To begin with, there was web scrapping of the given Globally confirmed COVID-19 data subset from GitHub,into Excel. This was done by clicking on the Confirmed global COVID-19 subset >> clciking on its raw file >> then the url was copied from the browser.
+# Data Transformation: 
 
+**In order to make meaningful use of the avaialable datasets, I ensured that the format of the each subset of data was retained in the extension 'xlsx'.**
+
+1) To begin with, there was web scrapping of the given Globally confirmed COVID-19 data subset from GitHub,into Excel. This was done by clicking on the Confirmed global COVID-19 subset >> clciking on its raw file >> then the url was copied from the browser.
 2) Heading to Ms Excel environment, I clicked on the 'Data Tab' on Excel >> Then on  "From Web" , after which the copied url from Github is pasted and entered. The resulting column of data was transformed.
 3) Then the first columns of the Confirmed global COVID-19 subset, were transformed into Headers and selected columns of "Country/Region, Latitude,Longitude,Date,Confirmed" were chosen via the Power Query Editor.
 4) Other data subsets as well were scrappd from Github, and the same processes of the steps above were repeated on the Power Quwery Editor
@@ -36,7 +40,9 @@ Charts of diverse types were then used using the "Analyze Pivot Table" feature, 
 
 ---
 
-# Findings and Recommendations : "To every cause,there is an effect..." This section touches the 'effects' of our findings and reccomenations.
+# Findings : 
+
+**"To every cause,there is an effect..." This section touches the 'effects' of our findings and reccomenations.**
 
  By sight, there is the recorded cumulative confirmed cases of  **_149,720,008,519_**
  
@@ -63,7 +69,7 @@ Charts of diverse types were then used using the "Analyze Pivot Table" feature, 
 ![Cumulative by Year](https://user-images.githubusercontent.com/107119554/174418213-ada61e53-bad4-41e8-bb4d-4a0a39bc80fc.PNG)
 
 
-# Findings and Recommendations: 
+# Recommendations: 
 
 
 
