@@ -72,14 +72,16 @@ In addition, it is seen that the highest cumulative death cases is recorded in t
 ![5 HighesT Cumulative Death](https://user-images.githubusercontent.com/107119554/174912565-08d7a76a-93ad-4be5-a4fb-79e9b09d09d3.PNG)
 
 
-Of the 10 least countries with death cases, we found out that about _five countries_ have no cumulative record of death;  Summer Olympics,
-Holy See, Winter Olympics, Marshall Islands, Antarctica, Micronesia.  Apart from these, **North Korea** is seen to be the nation with the lowest cumulative record of death cases, with specifically 192 cases.
+Of the 10 least countries with death cases, we found out that about _five countries_ have no cumulative record of death;  Summer Olympics, Holy See, Winter Olympics, Marshall Islands, Antarctica, Micronesia.  
+
+Apart from these, **North Korea** is seen to be the nation with the lowest cumulative record of death cases, with specifically 192 cases.
+
 ![Lowest deATH RATE](https://user-images.githubusercontent.com/107119554/174912969-8d562003-8e03-43fb-a846-fc9cc2a4d529.PNG)
 
+---
 Lastly on the plot of global recovery cases against month, we could observe a steady increase of recovery rate from January till July< before a sharp decline begins.
-![Global Recovert by month](https://user-images.githubusercontent.com/107119554/174913259-34d6edf4-d9f9-4ac9-826d-552d7e7ead60.PNG)
 
-![image](https://user-images.githubusercontent.com/107119554/174911639-446d10c3-0af9-419d-8c2a-f862adb56952.png)
+![Global Recovert by month](https://user-images.githubusercontent.com/107119554/174913259-34d6edf4-d9f9-4ac9-826d-552d7e7ead60.PNG)
 
 
 
